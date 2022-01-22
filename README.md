@@ -1,1 +1,1 @@
--Hello guys!
+- This is a quiz game app which ask mathematical simple question and show you your score
